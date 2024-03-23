@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently a PhD Candidate working on my dissertation project investigating a manakin hybrid zone. I specialize in tropical ornithology and population genomics. I'm a field biologist learning how to code. 
-- 🌱 I’m currently learning how to do data analysis in R and Python on ecology and population genomics data
+- 🔭 I’m currently a Postdoctoral Researcher at the University of Idaho investigating conservation genomics in pygmy rabbits. I specialize in tropical ornithology, population genomics, and conservation genomics. I'm a field biologist and bioinformatician. 
+- 🌱 I’m currently learning additioan data analyses for whole genome data and GTseq data for conservation applications
 - 👯 I’m looking to collaborate on biology and conservation projects
 - 🤔 I’m looking for help with learning better coding practices to bring into biology and making coding accessible to not computationally trained field biologists
 - 💬 Ask me about birds, field biology, and population genomic data
